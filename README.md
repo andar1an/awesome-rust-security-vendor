@@ -161,6 +161,8 @@
 
 ## Threat Detection and Forensics
 
+- [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Decentralized Rust EDR and 7-Ring AI agent containment engine with eBPF/ETW kernel telemetry, YARA-X scanning, and AppContainer/Landlock sandbox isolation.
+
 - [yara-rust](https://github.com/Hugal31/yara-rust) - Rust bindings to YARA
 - [BONOMEN](https://github.com/0xcpu/bonomen) - hunt for malware critical process impersonation
 - [confine](https://github.com/ex0dus-0x/confine) - sandbox for threat detection
