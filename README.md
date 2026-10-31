@@ -173,6 +173,7 @@
 - [medusa](https://github.com/evilsocket/medusa) - fast and secure multi protocol honeypot.
 - [elegant-bouncer](https://github.com/msuiche/elegant-bouncer) - experimental tool for detection of the FORCEDENTRY (CVE-2021-30860)
 - [cargo-sandbox](https://github.com/insanitybit/cargo-sandbox/) - sandboxed cargo
+- [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - High-performance Rust EDR and agent containment engine featuring 34 workspace crates, Windows kernel driver/ELAM, Linux eBPF CO-RE telemetry, YARA-X rules, and libp2p BFT consensus.
 
 <br/>
 
